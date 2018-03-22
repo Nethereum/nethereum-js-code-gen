@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es5",
+    "lib": [ "es5" ],
+    "sourceMap": true
+  },
+  "files": [
+    "app.ts",
+    "Nethereum.Generators.DuoCode.d.ts",
+    "mscorlib.d.ts"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}

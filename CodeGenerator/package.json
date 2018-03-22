@@ -1,0 +1,16 @@
+{
+  "name": "code-generator",
+  "version": "0.0.0",
+  "description": "CodeGenerator",
+  "main": "app.js",
+  "author": {
+    "name": "juan blanco"
+  },
+  "devDependencies": {
+    "@types/fs-extra": "^5.0.1",
+    "@types/node": "^6.0.87"
+  },
+  "dependencies": {
+    "fs-extra": "^5.0.0"
+  }
+}
